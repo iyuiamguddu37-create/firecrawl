@@ -179,7 +179,7 @@ curl -X POST 'https://api.firecrawl.dev/v2/search' \
 ```
 
 **CLI**
-```bash
+```data
 firecrawl search "firecrawl" --limit 5
 ```
 </details>
